@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 main() {
@@ -21,11 +22,21 @@ main() {
     printf("\nMultiplication Table:\n");
     
     for (int i = 1; i <= n; i++) {
-        for (int j = 1; j <= n; j++) {
+        for (int x = 1; x <= n; x++) {
             // formatting strings
-            printf("%d x %d = %d\n", i, j, i * j);
+            printf("%d x %d = %d\n", i, x, i * x);
         }
         printf("\n"); // Newline for better readability between rows
     }
 
 }
+
+//summary
+
+/*
+  =>The C program prompts the user to enter a number for the size of a multiplication table. 
+  =>It uses nested for loops to generate and format the table from 1 to the specified size, 
+	with results displayed in a neatly aligned format.
+  => Constants are used for the table size.
+*/
+

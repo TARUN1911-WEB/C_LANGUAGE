@@ -49,3 +49,11 @@ int main() {
     return 0;
 }
 
+
+//summary 
+
+/*
+	The C program prints the first 10 natural numbers using a for loop, calculates and displays 
+	the factorial of a user-provided number with a while loop, and repeatedly shows a menu with 
+	a do-while loop until the user chooses to exit.
+*/

@@ -50,3 +50,12 @@
     
 }
 
+//summary 
+
+/*
+	=> The C program prompts the user to enter an integer, checks if it's positive, negative, or zero using 
+	an if-else statement, and then uses a switch statement to display the corresponding day of the week 
+	based on a number entered (1-7).
+    => It handles invalid inputs for days as well.
+*/
+
