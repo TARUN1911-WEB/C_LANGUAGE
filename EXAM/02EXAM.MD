@@ -44,7 +44,7 @@
 
 12. If ‘KNIT’ is coded as ‘JMHF’, how is ‘SEW’ coded in the same code?
 (a) RDF (b) TFX (c) REX (d) QDV
-# ANSWER (B)
+# ANSWER (A)
 
 13. A shopkeeper buys a shirt for $40 and sells it for $60. What is the percentage profit?
 (a) 50% (b) 40% (c) 30% (d) 20%
@@ -72,4 +72,4 @@
 
 19. In a family, there are two parents and three children. If the family has exactly 5 members, how many of the members are children?
 (a) 2 (b) 3 (c) 4 (d) 5
-# ANSWER (3)
+# ANSWER (B)
